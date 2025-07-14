@@ -57,6 +57,7 @@
               "version": "[8.0.100, )"
             },
             "Microsoft.Maui.Controls.Compatibility": {
+              "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.100, )"
             },
@@ -86,10 +87,6 @@
               "version": "[9.0.301, 9.0.301]"
             },
             {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[8.0.17, 8.0.17]"
-            },
-            {
               "name": "Microsoft.NETCore.App.Ref",
               "version": "[8.0.17, 8.0.17]"
             },
@@ -111,11 +108,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win10-x64": {
-          "#import": []
         }
       }
     }

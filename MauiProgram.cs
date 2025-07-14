@@ -1,17 +1,17 @@
-﻿using Microsoft.Maui.Controls.Hosting;
-using Microsoft.Maui.Hosting;
+﻿using BillingMAUIDesktopApp;
 
-namespace BillingMAUIDesktopApp
+public static class MauiProgram
 {
-    public static class MauiProgram
+    public static MauiApp CreateMauiApp()
     {
-        public static MauiApp CreateMauiApp()
-        {
-            var builder = MauiApp.CreateBuilder();
-            builder
-                .UseMauiApp<App>();
+        var builder = MauiApp.CreateBuilder();
+        builder
+            .UseMauiApp<App>()
+            .ConfigureFonts(fonts =>
+            {
+                fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
+            });
 
-            return builder.Build();
-        }
+        return builder.Build();
     }
 }

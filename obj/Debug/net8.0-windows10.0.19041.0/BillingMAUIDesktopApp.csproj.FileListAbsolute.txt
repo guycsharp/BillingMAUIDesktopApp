@@ -1,0 +1,6 @@
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\BillingMAUIDesktopApp.csproj.AssemblyReference.cache
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\BillingMAUIDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\BillingMAUIDesktopApp.AssemblyInfoInputs.cache
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\BillingMAUIDesktopApp.AssemblyInfo.cs
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\BillingMAUIDesktopApp.csproj.CoreCompileInputs.cache
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\BillingMAUIDesktopApp.sourcelink.json
