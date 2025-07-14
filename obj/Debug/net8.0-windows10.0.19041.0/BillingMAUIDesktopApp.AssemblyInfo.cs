@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BillingMAUIDesktopApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+752d0cb2e3f3997cd9f084b812f065be75e9822b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e07231bd9be0b2e8b7b63e519c2dd897c424f82c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BillingMAUIDesktopApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BillingMAUIDesktopApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
