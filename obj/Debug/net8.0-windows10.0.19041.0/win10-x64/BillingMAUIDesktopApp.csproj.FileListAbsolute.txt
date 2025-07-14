@@ -1,0 +1,12 @@
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\BillingMAUIDesktopApp.csproj.AssemblyReference.cache
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.inputs
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.inputs
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.inputs
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauisplash.stamp
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauifont.stamp
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.stamp
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\mauiimage.outputs
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\BillingMAUIDesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\BillingMAUIDesktopApp.AssemblyInfoInputs.cache
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\BillingMAUIDesktopApp.AssemblyInfo.cs
+C:\NetProjects\BillingMAUIApp\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\BillingMAUIDesktopApp.csproj.CoreCompileInputs.cache

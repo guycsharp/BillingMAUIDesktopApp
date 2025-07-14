@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+  App.xaml defines global resources and wires up the XAML code generator.
+  The xmlns:x declaration is mandatory so the XAML compiler recognizes x:Class.
+-->
+<Application
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="BillingMAUIDesktopApp.App">
+
+    <!--
+    Add global Styles, Brushes, or Application resources here, e.g.:
+
+    <Application.Resources>
+      <Color x:Key="PrimaryColor">#6200EE</Color>
+    </Application.Resources>
+  -->
+</Application>

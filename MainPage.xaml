@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="BillingMAUIDesktopApp.MainPage">
+
+    <VerticalStackLayout
+      Padding="30"
+      Spacing="20">
+
+        <!-- Screen title -->
+        <Label
+        Text="Invoice Generator"
+        FontSize="32"
+        HorizontalOptions="Center" />
+
+        <!-- Button to kick off PDF creation -->
+        <Button
+        Text="Generate Invoice PDF"
+        Clicked="OnGeneratePdfClicked" />
+    </VerticalStackLayout>
+</ContentPage>
